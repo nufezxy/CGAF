@@ -1,2 +1,2 @@
-# CGAF
-code of CGAF
+# CGMR
+code of CGMR
